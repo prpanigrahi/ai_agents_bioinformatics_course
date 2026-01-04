@@ -1,0 +1,8 @@
+# Core dependencies for all notebooks in this repo
+openai
+openai-agents
+python-dotenv
+requests
+bs4
+gradio
+pypdf
